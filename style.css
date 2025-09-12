@@ -2,6 +2,7 @@ body {
  color:rgba(7, 118, 245, 0.514);
  background: rgba(197, 139, 209, 0.945);
 margin:0px;
+font-family: Georgia, 'Times New Roman', Times, serif; 
 }
 
 header{ 
@@ -10,7 +11,7 @@ padding:20px;
 font: size 32px;
 color:rgb(42,122,228);
 }
-section{
+.chamada{
  background:rgb(184,156,213);
  padding-bottom:80px;
  padding-top:80px;
@@ -25,4 +26,22 @@ h1{font-size:40px;
 }
 p{font-size: 20;
 
+}
+img{ 
+    height:200px;
+}
+.categoria-videos
+display:flex;
+over-flow-x:auto;
+gap:10px;
+
+}
+.categoria{ 
+    padding-left:20px;
+    padding-right:20px;
+}
+.categoria-videos img { 
+    opacity:0.5;
+    height:200px;
+    
 }
