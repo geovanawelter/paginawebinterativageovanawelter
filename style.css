@@ -43,5 +43,13 @@ gap:10px;
 .categoria-videos img { 
     opacity:0.5;
     height:200px;
+    margin-top:50px;
     
+}
+.categoria-videosimg:hover{
+ opacity:1.0;
+ border:3px solid green;   
+}
+.categoria h2{ 
+    color:rgb(42,122,228);
 }
